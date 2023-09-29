@@ -51,6 +51,9 @@ inline HAL_StatusTypeDef aocs_get_altimeter()
 	return HAL_OK;
 }
 ```
+## 📄 &nbsp; License
+
+This project is licensed under the General Public License - see the LICENSE.md file for details
 
 ## ❓ &nbsp; Where to ask questions 
 
