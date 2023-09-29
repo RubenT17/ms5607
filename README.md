@@ -1,5 +1,5 @@
 # MS5607
-MS5607 altimeter sensor
+Library for MS5607 altimeter sensor
 
 https://www.parallax.com/product/altimeter-module-ms5607/
 
